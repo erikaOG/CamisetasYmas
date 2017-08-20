@@ -11,8 +11,11 @@ img{
     margin-top: 50px;
 }
 .espacio-derecha{
-    margin-right: 1em;
-    color: #045df7;
+    margin-right: 1px;
+    color: yellow;
+}
+a {
+    color: #4286f4;
 }
 .no-lista{
     margin: 0px;
@@ -35,15 +38,20 @@ img{
     font-family: 'lobster', cursive;
     font-size: 50px;
     color: #0c0c0c;
+    text-align: center;
 }
-.lobsterNav{
+a,.lobsterNav{
     font-family: 'lobster', cursive;
     font-size: 30px;
-    color: red;
+    color: #0c0c0c;
+    text-align: center;
+
 }
 .lato{
     font-family: 'lato';
-    font-size: 10px;
+    font-size: 20px;
+    color: black;
+    text-align: center;
 }
 
 .header{
