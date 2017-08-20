@@ -1,0 +1,51 @@
+body{
+    background-color: #fcfc0c;
+}
+img{
+    max-width: 70%;
+}
+.quitar-float{
+    float: none;
+}
+.espacio-arriba{
+    margin-top: 50px;
+}
+.espacio-derecha{
+    margin-right: 1em;
+    color: #045df7;
+}
+.no-lista{
+    margin: 0px;
+    padding: 0px;
+}
+.no-lista li{
+    list-style-type: none;
+}
+.inline-block{
+    float: none;
+    display: inline-block;
+}
+.se-gris{
+    background-color: #18c5ff;
+}
+.padding-largo{
+    padding: 5px 10px;
+}
+.lobsterTitulo{
+    font-family: 'lobster', cursive;
+    font-size: 50px;
+    color: #0c0c0c;
+}
+.lobsterNav{
+    font-family: 'lobster', cursive;
+    font-size: 30px;
+    color: red;
+}
+.lato{
+    font-family: 'lato';
+    font-size: 10px;
+}
+
+.header{
+    background-color: red;
+}
